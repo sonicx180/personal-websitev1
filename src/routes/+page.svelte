@@ -9,8 +9,14 @@
 
     <p> I've been a developer for 4+ years now, and I primairly use HTML, CSS, Javascript</p>
 
+    <h2> What have I built?</h2>
+    <p> Here's a preview of the projects I've made over the years</p>
+
+    <div class = "projects"> </div>
+    <p> Click <a href = "/showcase"> here</a> to see the rest of my projects</p>
+
     <h2> Wanna get in touch?</h2>
-    <p> Head over to my contact page!</p>
+    <p> Head over to my <a href = "/contact"> contact</a> page for more info</p>
 </div>
 
 <style>
