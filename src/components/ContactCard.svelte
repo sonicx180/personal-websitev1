@@ -1,5 +1,5 @@
 <script>
-    let {name} = $props()
+    let {name, description, imageLink} = $props()
 </script>
 
 <div class="contact-card">
